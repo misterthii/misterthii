@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @misterthii
+- 👋 Hi, I’m @misterthii 🇫🇷
 - 👀 I’m interested in web developement 
 - 🌱 I’m currently learning web
+- 📬 Discord @mrthii
 
 <!---
 misterthii/misterthii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
